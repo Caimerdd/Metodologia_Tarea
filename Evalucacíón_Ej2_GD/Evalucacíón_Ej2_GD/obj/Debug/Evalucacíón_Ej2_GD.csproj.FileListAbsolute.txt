@@ -1,0 +1,7 @@
+C:\Users\fazur\source\repos\Evalucacíón_Ej2_GD\Evalucacíón_Ej2_GD\bin\Debug\Evalucacíón_Ej2_GD.exe.config
+C:\Users\fazur\source\repos\Evalucacíón_Ej2_GD\Evalucacíón_Ej2_GD\bin\Debug\Evalucacíón_Ej2_GD.exe
+C:\Users\fazur\source\repos\Evalucacíón_Ej2_GD\Evalucacíón_Ej2_GD\bin\Debug\Evalucacíón_Ej2_GD.pdb
+C:\Users\fazur\source\repos\Evalucacíón_Ej2_GD\Evalucacíón_Ej2_GD\obj\Debug\Evalucacíón_Ej2_GD.csproj.AssemblyReference.cache
+C:\Users\fazur\source\repos\Evalucacíón_Ej2_GD\Evalucacíón_Ej2_GD\obj\Debug\Evalucacíón_Ej2_GD.csproj.CoreCompileInputs.cache
+C:\Users\fazur\source\repos\Evalucacíón_Ej2_GD\Evalucacíón_Ej2_GD\obj\Debug\Evalucacíón_Ej2_GD.exe
+C:\Users\fazur\source\repos\Evalucacíón_Ej2_GD\Evalucacíón_Ej2_GD\obj\Debug\Evalucacíón_Ej2_GD.pdb

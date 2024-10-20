@@ -1,0 +1,7 @@
+C:\Users\fazur\source\repos\Evalucación_Ejercicio2\Evalucación_Ejercicio2\bin\Debug\Evalucación_Ejercicio2.exe.config
+C:\Users\fazur\source\repos\Evalucación_Ejercicio2\Evalucación_Ejercicio2\bin\Debug\Evalucación_Ejercicio2.exe
+C:\Users\fazur\source\repos\Evalucación_Ejercicio2\Evalucación_Ejercicio2\bin\Debug\Evalucación_Ejercicio2.pdb
+C:\Users\fazur\source\repos\Evalucación_Ejercicio2\Evalucación_Ejercicio2\obj\Debug\Evalucación_Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\fazur\source\repos\Evalucación_Ejercicio2\Evalucación_Ejercicio2\obj\Debug\Evalucación_Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\fazur\source\repos\Evalucación_Ejercicio2\Evalucación_Ejercicio2\obj\Debug\Evalucación_Ejercicio2.exe
+C:\Users\fazur\source\repos\Evalucación_Ejercicio2\Evalucación_Ejercicio2\obj\Debug\Evalucación_Ejercicio2.pdb
